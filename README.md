@@ -32,6 +32,7 @@ To convert a hex file successfully, it must be formatted as follows:<br>
 - The letters of a hexadecimal number can be either uppercase or lowercase.<br>
 - After the last hexadecimal number there must be a newline.<br>
 - The newline characters must be <a href="https://stackoverflow.com/questions/3986093/in-c-whats-the-difference-between-n-and-r-n" target="_blank" rel="noopener noreferrer">\r\n</a><br>
+- The hexadecimal file name must be fileName.OriginalFileExtension.hex (e.g. foo.txt.hex).
 <br>
 <img src="Format.png" alt="" title="secret.txt security settings">
 If your hex file is not formatted as shown in the previous image, you have two choices:<br>
