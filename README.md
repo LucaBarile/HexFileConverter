@@ -42,5 +42,5 @@ If your hex file is not formatted as shown in the previous image, you have two c
   </li>
 </ol>
 <h3>Oh?! Is that a flying unicorn?! &#128562;</h3>
-If you liked <code>HexFileConverter.exe</code>, what do you think about buying me a unicorn? &#129412;<br>
+If you liked HexFileConverter, what do you think about buying me a unicorn? &#129412;<br>
 You can buy me a unicorn here: https://www.buymeacoffee.com/LucaBarile
