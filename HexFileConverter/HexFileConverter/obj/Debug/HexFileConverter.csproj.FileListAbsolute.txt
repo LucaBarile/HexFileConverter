@@ -1,0 +1,7 @@
+D:\Software\MyPrograms\Prog. in C#\HexFileConverter\HexFileConverter\bin\Debug\HexFileConverter.exe.config
+D:\Software\MyPrograms\Prog. in C#\HexFileConverter\HexFileConverter\bin\Debug\HexFileConverter.exe
+D:\Software\MyPrograms\Prog. in C#\HexFileConverter\HexFileConverter\bin\Debug\HexFileConverter.pdb
+D:\Software\MyPrograms\Prog. in C#\HexFileConverter\HexFileConverter\obj\Debug\HexFileConverter.csprojAssemblyReference.cache
+D:\Software\MyPrograms\Prog. in C#\HexFileConverter\HexFileConverter\obj\Debug\HexFileConverter.csproj.CoreCompileInputs.cache
+D:\Software\MyPrograms\Prog. in C#\HexFileConverter\HexFileConverter\obj\Debug\HexFileConverter.exe
+D:\Software\MyPrograms\Prog. in C#\HexFileConverter\HexFileConverter\obj\Debug\HexFileConverter.pdb
