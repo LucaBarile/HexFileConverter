@@ -10,6 +10,8 @@ HexFileConverter was born Putting everything together in one program.<br>
 Allows you to convert a file of any type to hexadecimal format (and vice versa).<br>
 
 <h3>Usage</h3>
+First of all download <a href="https://github.com/LucaBarile/HexFileConverter/tree/main/HexFileConverter/HexFileConverter/bin/Release/HexFileConverter.exe" target="_blank" rel="noopener noreferrer">here</a> HexFileConverter.<br>
+<br>
 To convert a file of any type (e.g. <code>foo.txt</code>) to hex format:<br>
 <code>HexFileConverter.exe foo.txt</code><br>
 The <code>foo.txt.hex</code> file will be generated.<br>
