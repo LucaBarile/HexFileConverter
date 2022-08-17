@@ -4,7 +4,7 @@
 I needed to convert a hex file (saved in a <a href="https://github.com/LucaBarile/HexFileConverter/edit/main/README.md#hex-file-format" target="_blank" rel="noopener noreferrer">particular format</a>) in order to develop <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">my exploit</a> for <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">CVE-2022-0001</a>.<br>
 (The exploit is quite interesting; read <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">my report</a> if you have nothing better to do &#128580;).<br>
 After developing the code to convert a hex file to its original format I thought I’d also implement the code to perform the reverse conversion as well.<br>
-HexFileConverter was born Putting everything together in one program.<br>
+HexFileConverter was born putting everything together in one program.<br>
 
 <h3>What is it for?</h3>
 Allows you to convert a file of any type to hexadecimal format (and vice versa).<br>
@@ -46,4 +46,4 @@ If your hex file is not formatted as shown in the previous image, you have two c
 </ol>
 <h3>Oh?! Is that a flying unicorn?! &#128562;</h3>
 If you liked HexFileConverter, what do you think about buying me a unicorn? &#129412;<br>
-You can buy me a unicorn here: https://www.buymeacoffee.com/LucaBarile
+<a href="https://www.buymeacoffee.com/LucaBarile" target="_blank" rel="noopener noreferrer">Here</a> you can buy me a unicorn.
