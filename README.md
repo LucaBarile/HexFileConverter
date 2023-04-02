@@ -2,7 +2,7 @@
 
 <h3>Why HexFileConverter?</h3>
 I needed to convert a hex file (saved in a <a href="https://github.com/LucaBarile/HexFileConverter/edit/main/README.md#hex-file-format" target="_blank" rel="noopener noreferrer">particular format</a>) in order to develop <a href="https://github.com/LucaBarile/ZDI-CAN-16318/tree/main/ARB_RW" target="_blank" rel="noopener noreferrer">my ARB_RW exploit</a> for <a href="https://github.com/LucaBarile/ZDI-CAN-16318" target="_blank" rel="noopener noreferrer">ZDI-CAN-16318</a>.<br>
-(The exploit is quite interesting; read <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">my report</a> if you have nothing better to do &#128580;).<br>
+(The exploit is quite interesting; read <a href="https://lucabarile.github.io/Blog/ZDI-CAN-16318/arb_rw/index.html" target="_blank" rel="noopener noreferrer">my report</a> if you have nothing better to do &#128580;).<br>
 After developing the code to convert a hex file to its original format I thought I’d also implement the code to perform the reverse conversion as well.<br>
 HexFileConverter was born putting everything together in one program.<br>
 
