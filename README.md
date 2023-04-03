@@ -24,7 +24,7 @@ Note:<br>
 In this case the file you want to convert must be located in the same folder as <code>HexFileConverter.exe</code><br>
 If not, you must specify the entire path of the file to convert (e.g. <code>C:\...\Desktop\foo.txt</code>).<br>
 <br>
-<img src="Usage.gif" alt="" title="secret.txt security settings">
+<img src="Usage.gif" alt="" title="HexFileConverter usage example">
 <h3>Hex file format</h3>
 To convert a hex file successfully, it must be formatted as follows:<br>
 - Each hexadecimal number must be separated by a space.<br>
@@ -34,7 +34,7 @@ To convert a hex file successfully, it must be formatted as follows:<br>
 - The newline characters must be <a href="https://stackoverflow.com/questions/3986093/in-c-whats-the-difference-between-n-and-r-n" target="_blank" rel="noopener noreferrer">\r\n</a><br>
 - The hexadecimal file name must be fileName.OriginalFileExtension.hex (e.g. foo.txt.hex).<br>
 <br>
-<img src="Format.png" alt="" title="HexFileConverter usage example">
+<img src="Format.png" alt="" title="Hex file format">
 If your hex file is not formatted as shown in the previous image, you have two choices:<br>
 <ol>
   <li>
