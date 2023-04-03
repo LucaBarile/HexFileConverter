@@ -34,7 +34,7 @@ To convert a hex file successfully, it must be formatted as follows:<br>
 - The newline characters must be <a href="https://stackoverflow.com/questions/3986093/in-c-whats-the-difference-between-n-and-r-n" target="_blank" rel="noopener noreferrer">\r\n</a><br>
 - The hexadecimal file name must be fileName.OriginalFileExtension.hex (e.g. foo.txt.hex).<br>
 <br>
-<img src="Format.png" alt="" title="secret.txt security settings">
+<img src="Format.png" alt="" title="HexFileConverter usage example">
 If your hex file is not formatted as shown in the previous image, you have two choices:<br>
 <ol>
   <li>
